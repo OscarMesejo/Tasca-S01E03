@@ -2,7 +2,7 @@
 
 $presentacion = [
 
-    "name" = "Óscar";
+    "name" = "Oscar";
     "age" = 37;
     "email" = "oscar.mesejo@gmail.com";
     "favouriteFood" = "marisco";
