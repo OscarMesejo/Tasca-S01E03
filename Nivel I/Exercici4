@@ -2,15 +2,15 @@
 
 $presentacion = [
 
-    "name" = "Oscar";
-    "age" = 37;
-    "email" = "oscar.mesejo@gmail.com";
-    "favouriteFood" = "marisco";
+    "name" => "Oscar",
+    "age" => 37,
+    "email" => "oscar.mesejo@gmail.com",
+    "favouriteFood" => "marisco"
 ];
 
-echo "Nombre: " . $presentacion["name"] . <br>;
-echo "Edad: " . $presentacion["age"] . <br>;
-echo "Email:" . $presentacion["email"] . <br>;
-echo "Comida favorita: " . $presentacion[favouriteFood] . <br>;
+echo "Nombre: " . $presentacion["name"] . "<br>";
+echo "Edad: " . $presentacion["age"] . "<br>";
+echo "Email: " . $presentacion["email"] . "<br>";
+echo "Comida favorita: " . $presentacion["favouriteFood"] . "<br>";
 
 ?>
